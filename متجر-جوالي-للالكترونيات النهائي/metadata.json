@@ -1,0 +1,6 @@
+{
+  "name": "متجر جوالي للالكترونيات",
+  "description": "متجر إلكتروني متكامل لبيع الهواتف المحمولة والإكسسوارات والشواحن مع لوحة تحكم وإدارة كاملة للطلبات والمنتجات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
